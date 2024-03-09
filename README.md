@@ -7,7 +7,6 @@
 
 </div>
 
-
 Welcome to Lifeweb Language Models repository.
 Here we aim to train different Persian Language models and release them publicly in order to contribute our share to the Persian language's AI feild.
 First versions of our models are all trained on our own dataset called **Divan** with more than **164 million documents** and more than **10B tokens** which is normalized and deduplicated meticulously to ensure its enrichment and comprehensiveness. A better dataset leads to a better model. 
