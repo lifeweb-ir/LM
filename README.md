@@ -67,7 +67,7 @@ Obvious from the table below, you can find the colab codes for each task to use 
     <td class="tg-c3ow"> Arman </td>
   </tr>
   <tr>
-    <td class="tg-0pky">LifeWeb-ai/tehran</td>
+    <td class="tg-0pky">lifeWeb-ai/tehran</td>
     <td class="tg-c3ow"> 72% <br>
     <td class="tg-c3ow"> 91% <br>
     <td class="tg-c3ow"> 64% <br>
@@ -114,7 +114,7 @@ If you tested our models on a public dataset, and you wanted to add your results
 # Contributors
 
 - Mehrdad Azizi: [**Linkedin**](https://www.linkedin.com/in/mehrdad-azizi-50839489/), [**Github**](https://github.com/mehrazi)
-- Reza Salehi: [**Linkedin**](https://www.linkedin.com/in/reza-salehi-chegeni-6988ba271/), [**Github**](https://github.com/rezasalehichegeni)
+- Reza Salehi Chegeni: [**Linkedin**](https://www.linkedin.com/in/reza-salehi-chegeni-6988ba271/), [**Github**](https://github.com/rezasalehichegeni)
 - Parisa Mousavi: [**Linkedin**](https://www.linkedin.com/in/seyede-parisa-mousavi/), [**Github**](https://github.com/Mousavi-Parisa)
 - Iman Hashemi: [**Linkedin**](https://www.linkedin.com/in/iman-hashemi-403738a5), [**Github**](https://github.com/hashemiiman)
 
