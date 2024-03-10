@@ -15,10 +15,10 @@ First versions of our models are all trained on our own dataset called **Divan**
 # Use Models
 You can easily access the models using the links of Huggingface model hub provided in the table below.
 
-| Model Name                                         | Base Model | 	Vocabulary Size |  |
-|----------------------------------------------------|--|------------------|--|
-| Tehran                                             | [Roberta](https://huggingface.co/HooshvareLab/roberta-fa-zwnj-base) | 50000	           |[Results](#Results)|
-| [Shiraz](https://huggingface.co/lifeweb-ai/shiraz) |[MobileBert](https://huggingface.co/google/mobilebert-uncased)| 50000            | [Results](#Results)|
+| Model Name                                          | Base Model | 	Vocabulary Size |  |
+|-----------------------------------------------------|--|------------------|--|
+| [Tehran](https://huggingface.co/lifeweb-ai/shiraz)  | [Roberta](https://huggingface.co/HooshvareLab/roberta-fa-zwnj-base) | 50000	           |[Results](#Results)|
+| [Shiraz](https://huggingface.co/lifeweb-ai/shiraz)  |[MobileBert](https://huggingface.co/google/mobilebert-uncased)| 50000            | [Results](#Results)|
 
 ```python
 from transformers import AutoTokenizer, AutoModelForMaskedLM, FillMaskPipeline
