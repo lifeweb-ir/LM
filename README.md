@@ -68,11 +68,11 @@ Obvious from the table below, you can find the colab codes for each task to use 
   </tr>
   <tr>
     <td class="tg-0pky">lifeweb-ai/tehran</td>
-    <td class="tg-c3ow"> 72% <br>
-    <td class="tg-c3ow"> 91% <br>
-    <td class="tg-c3ow"> 64% <br>
-    <td class="tg-c3ow"> 89% <br>
-    <td class="tg-c3ow"> 76% <br>
+    <td class="tg-c3ow"><strong> 72% <br>
+    <td class="tg-c3ow"><strong> 91% <br>
+    <td class="tg-c3ow"><strong> 64% <br>
+    <td class="tg-c3ow"><strong> 89% <br>
+    <td class="tg-c3ow"><strong> 76% <br>
   </tr>
   <tr>
     <td class="tg-0pky">lifeweb-ai/shiraz</td>
