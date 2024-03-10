@@ -67,7 +67,7 @@ Obvious from the table below, you can find the colab codes for each task to use 
     <td class="tg-c3ow"> Arman </td>
   </tr>
   <tr>
-    <td class="tg-0pky">lifeWeb-ai/tehran</td>
+    <td class="tg-0pky">lifeweb-ai/tehran</td>
     <td class="tg-c3ow"> 72% <br>
     <td class="tg-c3ow"> 91% <br>
     <td class="tg-c3ow"> 64% <br>
