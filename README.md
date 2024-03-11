@@ -33,7 +33,7 @@ text = "در همین لحظه که شما مشغول [MASK] این متن هس�
 classifier = FillMaskPipeline(model=model, tokenizer=tokenizer)
 result = classifier(text)
 print(result[0])
-#{'score': 0.3584367036819458, 'token': 5764, 'token_str': 'خواندن', 'sequence': 'در همین لحظه که شما مشغول خواندن این متن هستید، میلیون ها دیتا در فضای انلاین در حال تولید است. ما در لایف وب به جمع اوری، پردازش و تحلیل این کلان داده ( big data ) می پردازیم.'}
+# {'score': 0.3584367036819458, 'token': 5764, 'token_str': 'خواندن', 'sequence': 'در همین لحظه که شما مشغول خواندن این متن هستید، میلیون ها دیتا در فضای انلاین در حال تولید است. ما در لایف وب به جمع اوری، پردازش و تحلیل این کلان داده ( big data ) می پردازیم.'}
   ```
 
 
@@ -89,6 +89,14 @@ Obvious from the table below, you can find the Colab codes for each task to use 
     <td class="tg-c3ow"> 72.65% <br><a href="https://colab.research.google.com/drive/12H95pFpFUSYfxpRHWuS-gOQFi81hZhX-"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="" width="87" height="15"></a></td>
   </tr>
   <tr>
+    <td class="tg-0pky">ViraIntelligentDataMining/AriaBERT</td>
+    <td class="tg-c3ow"> 69.12% <br><a href="https://colab.research.google.com/drive/1s0aSjPYntinkupgaAiGZIvwzKXWjNHgA"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Colab Code" width="87" height="15"></td>
+    <td class="tg-c3ow"> 87.15% <br><a href="https://colab.research.google.com/drive/1qPy0nFHC8bYj9OskUyksF0gQRQ6hRgbT"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Colab Code" width="87" height="15"></td>
+    <td class="tg-c3ow"> 59.26% <br><a href="https://colab.research.google.com/drive/1P9YaP9Fem5pSlJqPxP2jG2IBq9TsLbaz"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Colab Code" width="87" height="15"></td>
+    <td class="tg-c3ow"> 87.96% <br><a href="https://colab.research.google.com/drive/1wuGFELbqx0eE1cvmPZRgfklTTa3SkpyW"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Colab Code" width="87" height="15"></td>
+    <td class="tg-c3ow"> 69.11% <br><a href="https://colab.research.google.com/drive/1UINarSRMy4yKbSeXKgSUf84IvJh-JC4q"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="" width="87" height="15"></a></td>
+  </tr>
+  <tr>
     <td class="tg-0pky">HooshvareLab/bert-fa-zwnj-base</td>
     <td class="tg-c3ow"> 67.49% <br><a href="https://colab.research.google.com/drive/1HApEhtOm2p0ra1NwHLbptaxNeKqXC_TM"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Colab Code" width="87" height="15"></td>
     <td class="tg-c3ow"> 85.73% <br><a href="https://colab.research.google.com/drive/1e67UzkbX1HPgayfi8Z1rNNy79AACr1lV"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Colab Code" width="87" height="15"></td>
@@ -103,14 +111,6 @@ Obvious from the table below, you can find the Colab codes for each task to use 
     <td class="tg-c3ow"> 56.23% <br><a href="https://colab.research.google.com/drive/18OzPDKH1mB6-uDVmN0WWZz_etwrsZ_A3"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Colab Code" width="87" height="15"></td>
     <td class="tg-c3ow"> 87.19% <br><a href="https://colab.research.google.com/drive/1E-rfJYZmid3a-bEpskU_j_3S4q_SQmGH"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Colab Code" width="87" height="15"></td>
     <td class="tg-c3ow"> 57.96% <br><a href="https://colab.research.google.com/drive/1NRphgik9y0fmZP_7MDUjMq6zTP2AfTMj"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Colab Code" width="87" height="15"></td>
-  </tr>
-  <tr>
-    <td class="tg-0pky">ViraIntelligentDataMining/AriaBERT</td>
-    <td class="tg-c3ow"> 69.12% <br><a href="https://colab.research.google.com/drive/1s0aSjPYntinkupgaAiGZIvwzKXWjNHgA"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Colab Code" width="87" height="15"></td>
-    <td class="tg-c3ow"> 87.15% <br><a href="https://colab.research.google.com/drive/1qPy0nFHC8bYj9OskUyksF0gQRQ6hRgbT"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Colab Code" width="87" height="15"></td>
-    <td class="tg-c3ow"> 59.26% <br><a href="https://colab.research.google.com/drive/1P9YaP9Fem5pSlJqPxP2jG2IBq9TsLbaz"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Colab Code" width="87" height="15"></td>
-    <td class="tg-c3ow"> 87.96% <br><a href="https://colab.research.google.com/drive/1wuGFELbqx0eE1cvmPZRgfklTTa3SkpyW"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Colab Code" width="87" height="15"></td>
-    <td class="tg-c3ow"> 69.11% <br><a href="https://colab.research.google.com/drive/1UINarSRMy4yKbSeXKgSUf84IvJh-JC4q"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="" width="87" height="15"></a></td>
   </tr>
 </tbody>
 </table>
