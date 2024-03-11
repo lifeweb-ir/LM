@@ -7,9 +7,9 @@
 
 </div>
 
-Welcome to Lifeweb Language Models repository.
-Here we aim to train different Persian Language models and release them publicly in order to contribute our share to the Persian language's AI feild.
-First versions of our models are all trained on our own dataset called **Divan** with more than **164 million documents** and more than **10B tokens** which is normalized and deduplicated meticulously to ensure its enrichment and comprehensiveness. A better dataset leads to a better model. 
+Welcome to the Lifeweb Language Models repository.
+Here we aim to train different Persian Language models and release them publicly to contribute our share to the Persian language's AI field.
+The first versions of our models are all trained on our dataset called **Divan** with more than **164 million documents** and more than **10B tokens** which is normalized and deduplicated meticulously to ensure its enrichment and comprehensiveness. A better dataset leads to a better model. 
 
 
 # Use Models
@@ -41,12 +41,10 @@ print(result[0])
 
 # Results
 
-The Lifeweb models are evaluated on three downstream NLP tasks comprising **NER**, **Sentiment Analysis**, and **Emotion Detection** . **Tehran** outperforms every other Persian language model in terms of accuracy and macro F1. Additionally, **Shiraz** is considerably faster, and its accuracy remains highly competitive without compromising much on speed. According to [**MobileBERT paper**](https://arxiv.org/pdf/2004.02984.pdf), this model is 4.3× smaller and 5.5× faster than BERT-base.
-We assert that our models outperform all similar models in the field, achieving a new state-of-the-art performance. 
+The Lifeweb models are evaluated on three downstream NLP tasks comprising **NER**, **Sentiment Analysis**, and **Emotion Detection**. **Tehran** outperforms every other Persian language model in terms of accuracy and macro F1. Additionally, **Shiraz** is considerably faster, and its accuracy remains highly competitive without compromising much on speed. According to [**MobileBERT paper**](https://arxiv.org/pdf/2004.02984.pdf), this model is 4.3× smaller and 5.5× faster than BERT-base.
+We assert that our models outperform all similar models in the field, achieving a new state-of-the-art performance. Referencing [**ParsBERT**](https://arxiv.org/abs/2005.12515) and [**AriaBERT**](https://assets.researchsquare.com/files/rs-3558473/v1_covered_d230d5de-50d1-42d5-ba1a-ef400ede52e3.pdf?c=1699474771), we substantiate this claim by demonstrating superior evaluation metrics, even as they themselves have highlighted their better performance among other suitable models. 
 
-Referencing [**ParsBERT**](https://arxiv.org/abs/2005.12515) and [**AriaBERT**](https://assets.researchsquare.com/files/rs-3558473/v1_covered_d230d5de-50d1-42d5-ba1a-ef400ede52e3.pdf?c=1699474771), we substantiate this claim by demonstrating superior evaluation metrics, even as they themselves have highlighted their better performance among other suitable models. 
-
-Obvious from the table below, you can find the colab codes for each task to use as a tutorial besides the macro F1 score. 
+Obvious from the table below, you can find the Colab codes for each task to use as a tutorial besides the macro F1 score. These Colab codes are run equally on 4x2080 TI graphic cards.
 
 <table class="tg">
 <thead>
@@ -109,7 +107,7 @@ Obvious from the table below, you can find the colab codes for each task to use 
 </tbody>
 </table>
 
-If you tested our models on a public dataset, and you wanted to add your results to the table above, open a pull request or contact us. Also make sure to have your code available online so that we can add a reference.
+If you tested our models on a public dataset, and you wanted to add your results to the table above, open a pull request or contact us. Also, make sure to have your code available online so that we can add a reference.
 
 # Contributors
 
