@@ -81,6 +81,14 @@ Obvious from the table below, you can find the Colab codes for each task to use 
     <td class="tg-c3ow"> 66.97% <br><a href="https://colab.research.google.com/drive/12SpUEsOP1I2cCp-gQsifONyu9yDUGuKG"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Colab Code" width="87" height="15"></td>
   </tr>
   <tr>
+    <td class="tg-0pky">sbunlp/fabert</td>
+    <td class="tg-c3ow"> 71.23% <br><a href="https://colab.research.google.com/drive/1NHUG8GdGEx1R76jr1MBC8sqDFWdsAxQk"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Colab Code" width="87" height="15"></td>
+    <td class="tg-c3ow"> 88.53% <br><a href="https://colab.research.google.com/drive/1I6Nl9W_Br-WVV4odUcw0um_-dypjFyrp"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Colab Code" width="87" height="15"></td>
+    <td class="tg-c3ow"> 58.51% <br><a href="https://colab.research.google.com/drive/1jdLotilq7hedyQ8x9aTUdgJ2IP-EDLWv"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Colab Code" width="87" height="15"></td>
+    <td class="tg-c3ow"> 88.60% <br><a href="https://colab.research.google.com/drive/1DsIFzDrC_HNDaQyltJtiT3DjGA9blg_B"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Colab Code" width="87" height="15"></td>
+    <td class="tg-c3ow"> 72.65% <br><a href="https://colab.research.google.com/drive/12H95pFpFUSYfxpRHWuS-gOQFi81hZhX-"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="" width="87" height="15"></a></td>
+  </tr>
+  <tr>
     <td class="tg-0pky">HooshvareLab/bert-fa-zwnj-base</td>
     <td class="tg-c3ow"> 67.49% <br><a href="https://colab.research.google.com/drive/1HApEhtOm2p0ra1NwHLbptaxNeKqXC_TM"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Colab Code" width="87" height="15"></td>
     <td class="tg-c3ow"> 85.73% <br><a href="https://colab.research.google.com/drive/1e67UzkbX1HPgayfi8Z1rNNy79AACr1lV"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Colab Code" width="87" height="15"></td>
@@ -103,14 +111,6 @@ Obvious from the table below, you can find the Colab codes for each task to use 
     <td class="tg-c3ow"> 59.26% <br><a href="https://colab.research.google.com/drive/1P9YaP9Fem5pSlJqPxP2jG2IBq9TsLbaz"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Colab Code" width="87" height="15"></td>
     <td class="tg-c3ow"> 87.96% <br><a href="https://colab.research.google.com/drive/1wuGFELbqx0eE1cvmPZRgfklTTa3SkpyW"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Colab Code" width="87" height="15"></td>
     <td class="tg-c3ow"> 69.11% <br><a href="https://colab.research.google.com/drive/1UINarSRMy4yKbSeXKgSUf84IvJh-JC4q"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="" width="87" height="15"></a></td>
-  </tr>
-  <tr>
-    <td class="tg-0pky">sbunlp/fabert</td>
-    <td class="tg-c3ow"> 71.23% <br><a href="https://colab.research.google.com/drive/1NHUG8GdGEx1R76jr1MBC8sqDFWdsAxQk"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Colab Code" width="87" height="15"></td>
-    <td class="tg-c3ow"> 88.53% <br><a href="https://colab.research.google.com/drive/1I6Nl9W_Br-WVV4odUcw0um_-dypjFyrp"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Colab Code" width="87" height="15"></td>
-    <td class="tg-c3ow"> 58.51% <br><a href="https://colab.research.google.com/drive/1jdLotilq7hedyQ8x9aTUdgJ2IP-EDLWv"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Colab Code" width="87" height="15"></td>
-    <td class="tg-c3ow"> 88.60% <br><a href="https://colab.research.google.com/drive/1DsIFzDrC_HNDaQyltJtiT3DjGA9blg_B"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Colab Code" width="87" height="15"></td>
-    <td class="tg-c3ow"> 72.65% <br><a href="https://colab.research.google.com/drive/12H95pFpFUSYfxpRHWuS-gOQFi81hZhX-"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="" width="87" height="15"></a></td>
   </tr>
 </tbody>
 </table>
